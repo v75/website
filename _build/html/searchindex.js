@@ -1,0 +1,1 @@
+Search.setIndex({envversion:42,terms:{index:0,search:0,web:[],modul:0,content:0,music:[],loremipsum:[3,1,2],page:0},objtypes:{},objnames:{},filenames:["index","about","music","web"],titles:["Welcome to v-75.com&#8217;s documentation!","about","music","web"],objects:{},titleterms:{web:3,about:1,welcom:0,indic:0,music:2,tabl:0,document:0,com:0}})
