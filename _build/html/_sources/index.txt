@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to v-75.com's documentation!
-====================================
+Welcome to v-75 labs 
+====================
 
 Contents:
 
@@ -12,9 +12,8 @@ Contents:
    :maxdepth: 2
 
    about
-   web
-   music
-
+   projects
+   misc
 
 
 Indices and tables
